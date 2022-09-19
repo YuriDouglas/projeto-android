@@ -113,7 +113,7 @@ main > img{
     width: 100%;
 }
 main img.pequena{
-    min-width: 300px;
+    max-width: 600px;
     display: block;
     margin: auto;
 }
